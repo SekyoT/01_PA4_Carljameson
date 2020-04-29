@@ -20,4 +20,4 @@ Developer
 
 3. It is a type of BlackBox/WhiteBox Testing
 
-Black Box Testing 
+Black Box Testings
